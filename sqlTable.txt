@@ -1,0 +1,5 @@
+create table users( id int , email varchar2(60), name varchar2(60), password varchar2(60));
+ insert into users values(100,'pm@gmail.com','Preksha',' djfudu!@3');
+ insert into users values(101,'pdhdd@gmail.com','Prjakta','sdk!ccn@3');
+ insert into users values(102,'qyiajd@gmail.com','Aryaa','xcbccjcjxyb');
+ insert into users values(103,'aysgs@gm.com','Rohan','abcdef123');
